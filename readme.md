@@ -2,7 +2,7 @@
 
 **EQUIPO**
 - Jocelyn Lugo.
-- Pía.
+- Pía Aedo.
 - Alexis Alva.
 - Etienne Rojas.
 
